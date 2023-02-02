@@ -1,4 +1,6 @@
-# AI-Principles---Pygame
+# AI-Search-Alogrithm---Pygame
+
+This project is done for my university , was contributed by my other 3 peers.
 
 Use of search algorithms in AI such as BFS, DFS, UCS and A\*
 
