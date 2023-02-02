@@ -1,4 +1,4 @@
-# AI-Search-Alogrithm---Pygame
+# AI-Search-Algorithm---Pygame
 
 This project is done for my university , was contributed by my other 3 peers.
 
